@@ -30,7 +30,7 @@ et n´a rien à voir avec [__pom__*hello*.fr][pomhello.fr],
 malgré le fait que son profile pointe vers notre site.
 
 
-Merci de [signaler ce compte auprès de Twitter] ou de nous aider à le récupérer si cela est possible.
+Merci de [signaler ce compte auprès de Twitter](https://help.twitter.com/fr/safety-and-security/report-twitter-impersonation "Page du centre de support de Twitter concernant les démarches à suivre pour signaler un compte" ) ou de nous aider à le récupérer si cela est possible.
 
 Merci d´avance.
 
