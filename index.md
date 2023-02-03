@@ -1,8 +1,7 @@
 ---
 layout: default
-title: PomHello.fr 
+title: __Pom__*hello*
 ---
 
-# PomHello
+# __Pom__*Hello*
 
-en cours de construction.
